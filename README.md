@@ -24,11 +24,5 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Prerequisites
 
-- Node.js: Make sure Node.js is installed on your machine.
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/cryptoviewer.git
+- Node.js: Make sure Node.js is installed on your machine
+- 
